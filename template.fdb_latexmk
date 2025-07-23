@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1750822393.20493 "d:/Escritorio/CV/template.tex" "template.pdf" "template" 1750822394.83546 0
+["pdflatex"] 1752335868.58512 "d:/Escritorio/CV/template.tex" "template.pdf" "template" 1752335871.42437 0
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1750636356 121449 e85afe5c81fd53391e458665b2336de2 ""
   "C:/Users/PC/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1750636283 13233818 29ec930960a3bcf40f84b6906eb4b35a ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec-sc.enc" 1525740614 2881 8e2aef9e38084b946e7656b60672fedb ""
@@ -139,11 +139,11 @@
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/textpos/textpos.sty" 1658745447 12842 35403bda336a71a37a5edc37b78e3ec3 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "d:/Escritorio/CV/template.tex" 1750822392 3687 9d108e5ae0e2edb04748f49e1c826691 ""
-  "template.aux" 1750822394 206 71c4b5da363b36fcdb1451dd87cbc3a3 "pdflatex"
-  "template.out" 1750822394 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "template.tex" 1750822392 3687 9d108e5ae0e2edb04748f49e1c826691 ""
-  "twentysecondcv.cls" 1750634035 8452 3d754df3c5628ace5787f4e55ad16fd1 ""
+  "d:/Escritorio/CV/template.tex" 1752335865 4556 682b20a9fd0e50a00b8b5a91486874e1 ""
+  "template.aux" 1752335871 206 71c4b5da363b36fcdb1451dd87cbc3a3 "pdflatex"
+  "template.out" 1752335870 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "template.tex" 1752335865 4556 682b20a9fd0e50a00b8b5a91486874e1 ""
+  "twentysecondcv.cls" 1751494002 8472 ac6c6d45f6a1f86b5b4be0f098285229 ""
   (generated)
   "template.aux"
   "template.log"
